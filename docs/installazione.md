@@ -30,8 +30,8 @@ Questa guida spiega come scaricare e avviare il progetto sul tuo computer.
 
  **2.Live Server (VS Code)**:
 
- ** apri la cartella in VS Code, fai clic destro su
-`index.html` e scegli **"Open with Live Server"**.
+ Apri la cartella in VS Code, fai clic destro su
+ `index.html` e scegli **"Open with Live Server"**.
 
 ## 3.Aprire il sito nel browser
 

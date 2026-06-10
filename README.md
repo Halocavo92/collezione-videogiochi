@@ -24,11 +24,11 @@ I file della repo costituiscono un piccolo sito web, composto da tre pagine:
 - **Messaggio di errore** leggibile se `data.json` non viene caricato
 - Layout **responsive** (per adattarsi alle diverse dimensioni di schermo)
 
-## Tecnlogie Utilizzate
+## Tecnologie Utilizzate
 
 - **HTML5** (per le pagine del sito)
 - **CSS3**  (per lo stile delle pagine)
-- - **Bootstrap 5.3.2** (incluso da CDN)
+- **Bootstrap 5.3.2** (incluso da CDN)
 - **JavaScript** (per caricare i dati da `data.json` e filtrare i giochi)
 - **data.json** (sorgente locale per i dati dei giochi)
 
@@ -62,6 +62,21 @@ collezione-videogiochi/
 
 Versione pubblicata con GitHub Pages:
 **https://halocavo92.github.io/collezione-videogiochi/**
+
+
+## Screenshot
+
+### Home
+![Home del sito](assets/immagini/Home.png)
+
+### Giochi
+![Pagina giochi](assets/immagini/Giochi.png)
+
+### Piattaforme
+![Pagina piattaforme](assets/immagini/Piattaforme.png)
+
+### Visualizzazione su schermo piccolo (responsive)
+![Versione mobile del sito](assets/immagini/schermo-piccolo.png)
 
 
 ## Autore
