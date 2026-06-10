@@ -8,9 +8,9 @@
 
 body {
   color: var(--nero);
-  background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url("assets/immagini/sfondo.jpg");
-  background-size: cover;
-  background-position: center;
+  background-color: #f7f5fb;
+  background-image: url("assets/immagini/sfondo.svg");
+  background-repeat: repeat;
   background-attachment: fixed;
 }
 
