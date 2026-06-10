@@ -8,6 +8,10 @@
 
 body {
   color: var(--nero);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url("assets/immagini/sfondo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 /* Titoli in viola */
@@ -80,7 +84,7 @@ h1, h2, h3 {
 }
 
 /* Footer viola */
-footer {
+footer.bg-body-tertiary {
   background-color: var(--viola) !important;
   color: #ffffff;
 }
